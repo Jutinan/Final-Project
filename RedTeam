@@ -1,0 +1,13 @@
+#Red Team: Summary of Operations
+
+##Table of Contents
+- Exposed Services
+- Critical Vulnerabilities
+- Exploitation
+
+###Exposed Services
+Nmap scan results for each machine reveal the below services and OS details:
+
+##Target1 (IP:192.168.1.110)
+
+`nmap -sC -sV 192.168.1.110`
