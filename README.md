@@ -11,3 +11,5 @@ Then, we will report back findings to the manager with appropriate analysis.
 4. Use Wireshark to make an analysis and detect a traffic on the wire.
 
 Thus, this project devided into three parts: [Red Team](https://docs.google.com/document/d/1JzBNNukLwWUuU4X_G2vrrHWOg5oQCwUGrRJy87Epb4k/edit?usp=sharing), [Blue Team](https://docs.google.com/document/d/1-zBjTjKZKu32FfP2Z3kGeR_rRGpRIw-1wsdHQbnKChk/edit?usp=sharing), and [Network Analysis](https://docs.google.com/document/d/182HyH1DD275fVDeJEXGJJgFLLXUiKBeXgZDpNEVzbTM/edit?usp=sharing) files.
+
+# Network Topology (Red Team and Blue Team)
